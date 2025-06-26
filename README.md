@@ -1,6 +1,5 @@
 # 🚀 Astria - Sistema Inteligente de Monitoramento de Foguetes e Satélites
 
-![Astria Banner](https://user-images.githubusercontent.com/SeuUsuario/Astria/banner.png)  
 *Monitoramento em tempo real com IA para operações espaciais seguras e eficientes*
 
 ---
